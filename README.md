@@ -49,8 +49,8 @@ We have been given all of the recyclables which come out of the SITE (Faculty of
 
 ## Challenges: 
   
-  Objects within objects.
-  User carrying more than one article of garbage.
+  1. Objects within objects.
+  2. User carrying more than one article of garbage.
   Detection of Plastic, compost and paper without the use of Computer Vision.
  
  
