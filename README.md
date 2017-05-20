@@ -19,8 +19,8 @@ The system uses an optical and a metal sensor to detect different types of waste
 We have been given all of the recyclables which come out of the SITE (Faculty of Engineering at uOttawa) cafetaria. We are aiming to seperate all of these waste materials. 
 
 
-Requirements: 
-  Priority 5
+## Requirements: 
+  ### Priority 5
     System should be built considering the upmost safety standards.
     System should be operational by persons in wheelchairs.
     System should be able to handle liquid waste.
@@ -29,26 +29,26 @@ Requirements:
     System should be able to seperate and put waste into rightful compartments.
     System should be able to waste atleast 4 different types of waste.
     
-  Priority 4
+  ### Priority 4
     System should be able to handle wet and sticky waste.
     System should be easy to clean by janitorial staff.
     
-  Priority 3
+  ### Priority 3
     System should intergrate an LCD screen.
     System should relay data to a website.
     System should provide interface to janitors.
     
     
-  Priority 2
+  ### Priority 2
     System should notify janitors when bins are 75% full. 
     Users should not send more than 5 seconds to recycle their waste. 
     
-  Priority 1
+  ### Priority 1
     System should be portable.
     System should be able to seperate waste within waste. 
   
 
-Challenges: 
+## Challenges: 
   
   Objects within objects.
   User carrying more than one article of garbage.
