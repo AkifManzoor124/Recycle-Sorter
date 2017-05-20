@@ -21,31 +21,30 @@ We have been given all of the recyclables which come out of the SITE (Faculty of
 
 ## Requirements: 
   ### Priority 5
-    System should be built considering the upmost safety standards.
-    System should be operational by persons in wheelchairs.
-    System should be able to handle liquid waste.
-    System should be thoroughly documented.
-    System should handle all waste currently recycled by the GQV2 garbage compartments at the university.
-    System should be able to seperate and put waste into rightful compartments.
-    System should be able to waste atleast 4 different types of waste.
+    1. System should be built considering the upmost safety standards.
+    2. System should be operational by persons in wheelchairs.
+    3. System should be able to handle liquid waste.
+    4. System should be thoroughly documented.
+    5. System should handle all waste currently recycled by the GQV2 garbage compartments at the university.
+    6. System should be able to seperate and put waste into rightful compartments.
+    7. System should be able to waste atleast 4 different types of waste.
     
   ### Priority 4
-    System should be able to handle wet and sticky waste.
-    System should be easy to clean by janitorial staff.
+    1. System should be able to handle wet and sticky waste.
+    2. System should be easy to clean by janitorial staff.
     
   ### Priority 3
-    System should intergrate an LCD screen.
-    System should relay data to a website.
-    System should provide interface to janitors.
-    
+    1. System should intergrate an LCD screen.
+    2. System should relay data to a website.
+    3. System should provide interface to janitors.
     
   ### Priority 2
-    System should notify janitors when bins are 75% full. 
-    Users should not send more than 5 seconds to recycle their waste. 
+    1. System should notify janitors when bins are 75% full. 
+    2. Users should not send more than 5 seconds to recycle their waste. 
     
   ### Priority 1
-    System should be portable.
-    System should be able to seperate waste within waste. 
+    1. System should be portable.
+    2. System should be able to seperate waste within waste. 
   
 
 ## Challenges: 
