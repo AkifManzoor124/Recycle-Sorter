@@ -27,9 +27,10 @@ Requirements:
     System should be thoroughly documented
     System should handle all waste currently recycled by the GQV2 garbage compartments at the university.
     System should be able to seperate and put waste into rightful compartments
-    
+    System should be able to waste atleast 4 different types of waste
     
   Priority 4
+    System should be able to handle wet and sticky waste
     System should be easy to clean by janitorial staff
     
   Priority 3
@@ -37,8 +38,10 @@ Requirements:
     System should relay data to a website
     System should provide interface to janitors
     
+    
   Priority 2
     System should notify janitors when bins are 75% full. 
+    Users should not send more than 5 seconds to recycle their waste. 
     
   Priority 1
     System should be portable
