@@ -16,11 +16,33 @@ We are a small team comprised of mechanical, electrical, software, computer and 
 The Recycle Sorter was the first project for the Ottabotics Team.
 The deadline for the project is September 2017
 The system uses an optical and a metal sensor to detect different types of waste. 
-We have been given all of the recyclables which come out of the SITE (Faculty of Engineering at uOttawa) cafetaria. We are aiming to seperate all of these componsdddasdsdsents. 
+We have been given all of the recyclables which come out of the SITE (Faculty of Engineering at uOttawa) cafetaria. We are aiming to seperate all of these waste materials. 
 
 
 Requirements: 
   Priority 5
+    System should be built considering the upmost safety standards
+    System should be operational by persons in wheelchairs
+    System should be able to handle liquid waste.
+    System should be thoroughly documented
+    System should handle all waste currently recycled by the GQV2 garbage compartments at the university.
+    System should be able to seperate and put waste into rightful compartments
+    
+    
+  Priority 4
+    System should be easy to clean by janitorial staff
+    
+  Priority 3
+    System should intergrate an LCD screen
+    System should relay data to a website
+    System should provide interface to janitors
+    
+  Priority 2
+    System should notify janitors when bins are 75% full. 
+    
+  Priority 1
+    System should be portable
+    System should be able to seperate waste within waste. 
   
 
 Challenges: 
