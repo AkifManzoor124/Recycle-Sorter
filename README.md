@@ -1,5 +1,7 @@
 # Recycle-Sorter
 
+Thank you to Jana for leading us through this project. 
+
 Thanks to Chartwells, we have recieved funding to work on this project. 
 
 According to the EPA, an estimated 75% of the american waste stream is recycleable, yet only 30% of it gets recycled. 
@@ -11,10 +13,15 @@ If the world was better at recycling products and materials, we would not have t
 The recycle sorter is an autonomous garbage compartment capable of seperating different types of waste materials. 
 We are part of Ottabotics, uOttawa's Robotics Team. 
 We are a small team comprised of mechanical, electrical, software, computer and civil engineers. 
-The Recycle Sorter was the first project for the Ottabotics Team, University of Ottawa's Robotics Team. 
+The Recycle Sorter was the first project for the Ottabotics Team.
 The deadline for the project is September 2017
 The system uses an optical and a metal sensor to detect different types of waste. 
+We have been given all of the recyclables which come out of the SITE (Faculty of Engineering at uOttawa) cafetaria. We are aiming to seperate all of these componsdddasdsdsents. 
 
+
+Requirements: 
+  Priority 5
+  
 
 Challenges: 
   
