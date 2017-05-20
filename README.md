@@ -21,22 +21,22 @@ We have been given all of the recyclables which come out of the SITE (Faculty of
 
 Requirements: 
   Priority 5
-    System should be built considering the upmost safety standards
-    System should be operational by persons in wheelchairs
+    System should be built considering the upmost safety standards.
+    System should be operational by persons in wheelchairs.
     System should be able to handle liquid waste.
-    System should be thoroughly documented
+    System should be thoroughly documented.
     System should handle all waste currently recycled by the GQV2 garbage compartments at the university.
-    System should be able to seperate and put waste into rightful compartments
-    System should be able to waste atleast 4 different types of waste
+    System should be able to seperate and put waste into rightful compartments.
+    System should be able to waste atleast 4 different types of waste.
     
   Priority 4
-    System should be able to handle wet and sticky waste
-    System should be easy to clean by janitorial staff
+    System should be able to handle wet and sticky waste.
+    System should be easy to clean by janitorial staff.
     
   Priority 3
-    System should intergrate an LCD screen
-    System should relay data to a website
-    System should provide interface to janitors
+    System should intergrate an LCD screen.
+    System should relay data to a website.
+    System should provide interface to janitors.
     
     
   Priority 2
@@ -44,14 +44,14 @@ Requirements:
     Users should not send more than 5 seconds to recycle their waste. 
     
   Priority 1
-    System should be portable
+    System should be portable.
     System should be able to seperate waste within waste. 
   
 
 Challenges: 
   
-  Objects within objects
-  User carrying more than one article of garbage
-  Detection of Plastic, compost and paper without the use of Computer Vision
+  Objects within objects.
+  User carrying more than one article of garbage.
+  Detection of Plastic, compost and paper without the use of Computer Vision.
  
  
