@@ -20,4 +20,12 @@ The ramp will be moved to the left so that the box’s trap can be dropped verti
 The ramps will be pushed up with the servos to allow an item to fall in
 If an item will be stuck, we can explore shaking of the ramps
 
+The following is a CAD design crated by our very own Mechanical Lead: Christopher Kudo
+
+![alt text](https://github.com/AkifManzoor124/Recycle-Sorter/blob/master/Ottabotics%20ARM%20Solidworks%20Rendering%20.JPG?raw=true)
+
+The following picture is the detection of a Tims Cup using Open CV Haar Cascades
+
+![alt text](https://github.com/AkifManzoor124/Recycle-Sorter/blob/master/Tims%20Cup%20Detector.PNG?raw=true)
+
 
